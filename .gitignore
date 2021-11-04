@@ -5,4 +5,7 @@
 >>>>>>> fb-02
 *.iml
 *.iml
+<<<<<<< Updated upstream
 *ipr
+*.iws
+>>>>>>> Stashed changes
