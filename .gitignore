@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 ### Intellij Idea ###
 .idea
-.
->>>>>>> fb-02
 *.iml
-*.iml
-*ipr
+*.ipr
+*.iws
